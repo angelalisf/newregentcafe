@@ -1,0 +1,156 @@
+body {
+    font-family: Helvetica, sans-serif;
+    font-weight: 100;
+}
+
+.hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.topnav {
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+  }
+  
+.topnav a {
+    float: right;
+    color: #000000;
+    padding: 5px 15px;
+    text-decoration: none;
+    font-size: 100%;
+}
+.topnav p {
+    float: left;
+    margin-left: 15px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    color: #000000;
+    text-decoration: none;
+    font-size: 100%;
+}
+.topnav b {
+    color: #686868;
+}
+
+.topnav a.active {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background: #76d4afb6;
+    height: 380px;
+}
+
+.jumbotron h1 {
+    color: white;
+    margin: 10px;
+    padding-top: 100px;
+    padding-left: 10%;
+    font-size: 410%;
+    font-family: Helvica, serif;
+    text-shadow: gray 0px 0px 5px;
+    color: darkred;
+}
+
+.lunchspecial, .aboutus{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    height: auto;
+}
+
+h2{
+    color: rgb(185, 136, 10);
+    font-size: 150%;
+    margin-bottom: 5px;
+}
+
+.lunchspecial h3 {
+    margin: 0px;
+    color: #686868;
+}
+
+.lunchspecial ol li p{
+    padding: 3px;
+}
+
+.images {
+    overflow: hidden;
+    padding-top: 10px;
+}
+
+.aboutus img {
+    overflow: hidden;
+    float: left;
+    width: auto;
+    padding-bottom: 38px;
+}
+
+.aboutus .aboutus_description {
+    padding-left: 38%;
+    margin-right: 15%;
+}
+
+hr {
+    clear: both;
+    width: 92%;
+    margin-top: 38px;
+    margin-bottom: 20px;
+}
+
+.information .hours {
+    float: left;
+    margin-left: 10%;
+    margin-right: 15%;
+}
+
+.information .location {
+    overflow: hidden;
+    margin-right: 10%;
+}
+
+.hours p {
+    margin-left: 10px;
+    font-size: 100%;
+}
+
+.location p {
+    font-size: 85%;
+}
+
+.map {
+    padding-top: 8px;
+    position: relative;
+    text-align: right;
+    height: 210px;
+    width: 650px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none;
+    height: 210px;
+    width: 650px;
+}
+.contactbox {
+    margin-top: 18px;
+    margin-left: 10%;
+}
+
+.contact {
+    float:left;
+}
+
+。contact h2 {
+    margin-bottom: 10px;
+}
+.contact p{
+    margin-left: 50px;
+}
+
+.mt {
+    float: right;
+    padding-right: 15%;
+    overflow: hidden;
+}
