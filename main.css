@@ -154,3 +154,7 @@ hr {
     padding-right: 15%;
     overflow: hidden;
 }
+
+footer {
+    clear: both;
+}
