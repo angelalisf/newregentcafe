@@ -147,12 +147,12 @@ hr {
 }
 .contact p{
     margin-left: 50px;
+    overflow: hidden;
 }
 
 .mt {
     float: right;
     padding-right: 15%;
-    overflow: hidden;
 }
 
 footer {
