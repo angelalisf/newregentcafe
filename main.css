@@ -141,8 +141,8 @@ hr {
     float:left;
 }
 
-。contact h2 {
-    margin-bottom: 10px;
+.contact h2 {
+    margin-bottom: 20px;
 }
 .contact p{
     overflow: hidden;
