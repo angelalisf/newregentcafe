@@ -76,17 +76,33 @@ h2{
     font-family: serif;
     margin: 0px;
     color: rgb(95, 68, 0);
-    padding-bottom: 3px;
 }
 
 .images {
     padding-top: 5px;
-    padding-bottom: 3px;
+    padding-bottom: 10px;
 }
+
+.figure1 {
+    float: left;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 30%;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 
 .aboutus img {
     float: left;
-    width: 30%;
+    width: auto;
     padding-bottom: 50px;
 }
 
