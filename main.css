@@ -94,9 +94,9 @@ h2{
     padding-bottom: 50px;
 }
 
-.aboutus figure {
-    float: left;
+.aboutus img {
     overflow: hidden;
+    float: left;
     width: auto;
     padding-bottom: 50px;
 }
