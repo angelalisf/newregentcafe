@@ -88,8 +88,12 @@ h2{
     color: rgb(95, 68, 0);
 }
 
+figure {
+    font-size: 118%;
+}
+
 figcaption {
-    font-family: serif
+    font-family: serif;
 }
 
 .images {
