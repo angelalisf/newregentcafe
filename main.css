@@ -77,10 +77,14 @@ h2{
     margin-bottom: 3px;
 }
 
+.weektitle {
+    margin: 0 0 0 28%;
+}
+
 .lunchspecial h3 {
     font-weight: normal;
     font-family: serif;
-    margin: 0px;
+    margin: 0 0 0 35%;
     color: rgb(95, 68, 0);
 }
 
