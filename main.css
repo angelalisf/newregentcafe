@@ -79,25 +79,14 @@ h2{
     padding-bottom: 3px;
 }
 
-.lunchspecial ol li{
-    padding-bottom: 10px;
-}
-
-.lunchspecial ol li p{
-    margin-right: 30%;
-    clear: both;
-}
-
 .images {
-    overflow: hidden;
-    padding-top: 10px;
-    padding-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 3px;
 }
 
 .aboutus img {
-    overflow: hidden;
     float: left;
-    width: auto;
+    width: 30%;
     padding-bottom: 50px;
 }
 
