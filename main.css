@@ -64,11 +64,16 @@ body {
     padding-bottom: 50px;
 }
 
+.lunchspecial p {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
 h2{
     font-family: serif;
     color: rgb(185, 136, 10);
     font-size: 180%;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
 }
 
 .lunchspecial h3 {
@@ -82,10 +87,15 @@ figcaption {
     font-family: serif
 }
 
+.images {
+    padding-top: 10px;
+}
+
 .column {
     float: left;
     width: 31%;
     margin: 5px;
+    clear: right;
 }
   
 .images::after {
