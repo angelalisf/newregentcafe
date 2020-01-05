@@ -78,23 +78,15 @@ h2{
     color: rgb(95, 68, 0);
 }
 
-.images {
-    padding-top: 5px;
-    padding-bottom: 10px;
-}
-
-.figure1 {
-    float: left;
-}
-
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
     float: left;
     width: 30%;
+    margin: 5px;
   }
   
   /* Clear floats after image containers */
-  .row::after {
+  .images::after {
     content: "";
     clear: both;
     display: table;
