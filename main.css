@@ -78,19 +78,21 @@ h2{
     color: rgb(95, 68, 0);
 }
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
+figcaption {
+    font-family: serif
+}
+
 .column {
     float: left;
-    width: 30%;
+    width: 31%;
     margin: 5px;
-  }
+}
   
-  /* Clear floats after image containers */
-  .images::after {
+.images::after {
     content: "";
     clear: both;
     display: table;
-  }
+}
 
 .aboutus img {
     float: left;
