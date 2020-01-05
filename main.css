@@ -67,6 +67,7 @@ body {
 .lunchspecial p {
     padding-top: 10px;
     padding-bottom: 20px;
+    margin-right: 5%;
 }
 
 h2{
@@ -89,12 +90,13 @@ figcaption {
 
 .images {
     padding-top: 10px;
+    margin-right: 5%;
 }
 
 .column {
     float: left;
-    width: 29%;
     margin: 5px;
+    width: 30%;
     clear: right;
 }
   
